@@ -87,11 +87,12 @@ You'll encounter `for` loops again when you learn about iterating through object
 
 **HINT**: Your `for` loop could look something like this:
 
-``` javascript
-for (let i = 0; i < 25; i++) {
-  // ...
+function forLoop(array) {
+  for (let i = 0; i < 25; i++) {
+    // ...
+  }
 }
-```
+
 
 ## The `while` Loop
 
